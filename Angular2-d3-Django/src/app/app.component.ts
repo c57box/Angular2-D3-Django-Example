@@ -9,5 +9,5 @@ import { HomeService } from './home/home.service'
   providers: [HomeService]
 })
 export class AppComponent {
-  title = 'Angular2 / D3.js V4 Test';
+  title = 'Angular2 / D3.js V4 Django Web API Test';
 }
